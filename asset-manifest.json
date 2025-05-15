@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/banyanz-website/static/css/main.7ddf8bad.css",
-    "main.js": "/banyanz-website/static/js/main.3fdd82a3.js",
-    "static/media/back3.png": "/banyanz-website/static/media/back3.dbfa8d743bbf9442a4d5.png",
-    "static/media/back2.png": "/banyanz-website/static/media/back2.b5ffc262cdba22425fc3.png",
-    "static/media/back.png": "/banyanz-website/static/media/back.bb453eb2ceecfd2625e3.png",
-    "static/media/background.jpg": "/banyanz-website/static/media/background.49eb5ee927291ee20499.jpg",
-    "static/media/footersymbol.png": "/banyanz-website/static/media/footersymbol.3c334419fcc3e27b941a.png",
-    "index.html": "/banyanz-website/index.html",
-    "main.7ddf8bad.css.map": "/banyanz-website/static/css/main.7ddf8bad.css.map",
-    "main.3fdd82a3.js.map": "/banyanz-website/static/js/main.3fdd82a3.js.map"
+    "main.css": "/Banyanz/static/css/main.41e81f1d.css",
+    "main.js": "/Banyanz/static/js/main.3fdd82a3.js",
+    "static/media/back3.png": "/Banyanz/static/media/back3.dbfa8d743bbf9442a4d5.png",
+    "static/media/back2.png": "/Banyanz/static/media/back2.b5ffc262cdba22425fc3.png",
+    "static/media/back.png": "/Banyanz/static/media/back.bb453eb2ceecfd2625e3.png",
+    "static/media/background.jpg": "/Banyanz/static/media/background.49eb5ee927291ee20499.jpg",
+    "static/media/footersymbol.png": "/Banyanz/static/media/footersymbol.3c334419fcc3e27b941a.png",
+    "index.html": "/Banyanz/index.html",
+    "main.41e81f1d.css.map": "/Banyanz/static/css/main.41e81f1d.css.map",
+    "main.3fdd82a3.js.map": "/Banyanz/static/js/main.3fdd82a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ddf8bad.css",
+    "static/css/main.41e81f1d.css",
     "static/js/main.3fdd82a3.js"
   ]
 }
